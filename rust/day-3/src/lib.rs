@@ -125,7 +125,7 @@ mod tests {
     }
 
     #[test]
-    fn day_1_part_2_test_input() {
+    fn day_3_part_2_test_input() {
         assert_eq!(day_3_part_2(368078), 369601);
     }
 }
